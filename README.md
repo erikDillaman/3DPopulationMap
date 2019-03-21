@@ -10,4 +10,8 @@ Contains:
 [worldMapping.png]  A texture map of Earth to be projected onto a sphere object
 
 
+Requires:
+
+The Peasy Camera library
+
 ** The axis of rotation can be changed during the sketch by clicking the mouse onto the sketch **
