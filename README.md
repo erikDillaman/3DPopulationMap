@@ -12,6 +12,6 @@ Contains:
 
 Requires:
 
-The Peasy Camera library
+The Peasy Camera library   https://github.com/jdf/peasycam
 
 ** The axis of rotation can be changed during the sketch by clicking the mouse onto the sketch **
